@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hello, I'm Lucas Iglezias
 
-<!--
-**lcsigzs/lcsigzs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Developer Python | Data Science
+I'm not good with this but, I will try to show a little bit about myself for you.
+I started studying Python, and after a while, I began studying Data Science. Today, I'm still in search of my first job opportunity.
 
-Here are some ideas to get you started:
+Public information
+My name is Lucas Iglezias, I live in São Paulo, Brazil and I'm trying to get my first job working with Python
+On my free time, I study and I make some personal projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⭐ Objective
+
+Aspire to secure a job in a field I'm passionate about. My goal is to showcase my potential and make a positive impact.
+
+## 🌍 Let's Connect
+Let's turn our ideas into reality through strategic coding and unwavering dedication. Together, we can make a lasting impact in the world of technology. ⚡
+
+
+<a target='_blank' href="https://www.linkedin.com/in/lucas-iglezias/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
